@@ -7,7 +7,9 @@
  </h4>
  <p>团结一切可以团结的农民工，向共同富裕前进</p>
 </div>
-![](https://github.com/gsfuture/PullRequest/blob/master/res/Logo256.jpg?raw=true)
+
+
+![](https://github.com/gsfuture/PullRequest/blob/master/res/Logo256.png?raw=true)
 
 ## TxCode 社区 - Group
 
