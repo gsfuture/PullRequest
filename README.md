@@ -7,7 +7,9 @@
  </h4>
  <p>团结一切可以团结的农民工，向共同富裕前进</p>
 </div>
-
+<div align=center>
+<img src="https://github.com/TxCodeGroup/TxCodeDao/blob/master/res/Logo256.png?raw=true" width="256" height="256">
+</div>
 
 ![](https://github.com/gsfuture/PullRequest/blob/master/res/Logo256.png?raw=true)
 
